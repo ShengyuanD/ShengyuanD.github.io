@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>你在做甚么</title>
+      <link href="/2022/09/29/%E9%81%A5%E8%BF%9C%E7%9A%84%E5%A4%9C%E7%A9%BA/"/>
+      <url>/2022/09/29/%E9%81%A5%E8%BF%9C%E7%9A%84%E5%A4%9C%E7%A9%BA/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Music </tag>
+            
+            <tag> 生活 </tag>
+            
+            <tag> 爱情 </tag>
+            
+            <tag> 游戏 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第二篇</title>
+      <link href="/2022/09/28/%E7%AC%AC%E4%BA%8C%E7%AF%87/"/>
+      <url>/2022/09/28/%E7%AC%AC%E4%BA%8C%E7%AF%87/</url>
+      
+        <content type="html"><![CDATA[<p>？你在说什么？</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>928</title>
+      <link href="/2022/09/28/0928/"/>
+      <url>/2022/09/28/0928/</url>
+      
+        <content type="html"><![CDATA[<p>今天是第一次写博客</p><h2 id="写点啥好捏"><a href="#写点啥好捏" class="headerlink" title="写点啥好捏"></a>写点啥好捏</h2><p>就这样吧</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 第一次 学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>article title</title>
+      <link href="/2022/09/27/article-title/"/>
+      <url>/2022/09/27/article-title/</url>
+      
+        <content type="html"><![CDATA[<p><img src="C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20220925201346706.png" alt="image-20220925201346706"></p><h2 id="第2章-物理层"><a href="#第2章-物理层" class="headerlink" title="第2章 物理层"></a>第2章 物理层</h2><h5 id="1-物理层的主要任务："><a href="#1-物理层的主要任务：" class="headerlink" title="1. 物理层的主要任务："></a>1. 物理层的主要任务：</h5><ol><li><p>确定与传输媒体接口有关的一些特性</p></li><li><p>传输方式的转换</p><p>由通信电路（传输媒体）上的<strong>串行</strong>传输 转换成 计算机内部常用的 <strong>并行</strong>传输</p></li></ol>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2022/09/27/hello-world/"/>
+      <url>/2022/09/27/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>?????! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
